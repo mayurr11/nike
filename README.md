@@ -6,7 +6,7 @@ Welcome to the **Nike Shoes Front-End Website** project! This project showcases 
 
 ## Live Demo
 
-[Link to the live project](#) (Update this with the actual link)
+[Click me to view Demo](https://nike-app-by-mayur.vercel.app/)
 
 ## Features
 
@@ -29,8 +29,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/nike-shoes-frontend.git
-   cd nike-shoes-frontend
+   git clone https://github.com/mayurr11/nike.git
+   cd nike
    ```
 
 2. **Install dependencies:**
